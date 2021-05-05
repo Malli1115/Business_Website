@@ -5,20 +5,21 @@ ini_set('error_reporting', E_ALL);
 // Setting up the time zone
 date_default_timezone_set('Asia/Dhaka');
 
-// Host Name
-$dbhost = 'localhost';
+//delvelopment connection
+// $dbhost = 'localhost';
+// $dbname = 'technicax';
+// $dbuser = 'root';
+// $dbpass = '';
+// define("BASE_URL", "http://localhost/Tcx_website/");
 
-// Database Name
-$dbname = 'technicax';
+//remote db connection
+$dbhost = 'remotemysql.com';
+$dbname = 'rW8KybKAVF';
+$dbuser = 'rW8KybKAVF';
+$dbpass = 'd90KLciIXC';
+define("BASE_URL", "https://malli-business-site.herokuapp.com/");
 
-// Database Username
-$dbuser = 'root';
 
-// Database Password
-$dbpass = '';
-
-// Defining base url
-define("BASE_URL", "http://localhost/Tcx_website/");
 
 // Getting Admin url
 define("ADMIN_URL", BASE_URL . "admin" . "/");
