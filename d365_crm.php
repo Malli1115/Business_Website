@@ -34,7 +34,7 @@
                         <!-- ttm-service-single-content-are -->
                         <div class="ttm-service-single-content-area">
                             <div class="ttm_single_image-wrapper mb-35">
-                                <img class="img-fluid" src="images/solutions/Customer_relationship_management.jpg" alt="single-img-twelve">
+                                <img class="img-fluid" src="images/solutions/solutions3.jpg" alt="single-img-twelve">
                             </div>
                             <div class="ttm-service-description">
                                 <h3>Desktop Computing</h3>

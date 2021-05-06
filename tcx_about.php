@@ -66,7 +66,7 @@
                             <div class="position-relative res-991-mt-30">
                                 <!-- ttm_single_image-wrapper -->
                                 <div class="ttm_single_image-wrapper text-sm-center">
-                                    <img class="img-fluid" src="images/photos/aboutus_image.gif" title="single-img-seven" alt="single-img-seven">
+                                    <img class="img-fluid" src="images/photos/aboutus.jpg" title="single-img-seven" alt="single-img-seven">
                                 </div><!-- ttm_single_image-wrapper end -->
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                                         <div class="col-lg-6">
                                             <!-- ttm_single_image-wrapper -->
                                             <div class="ttm_single_image-wrapper">
-                                                <img class="img-fluid" src="images/photos/aboutus_3.gif" title="single-img-eight" alt="single-img-eight">
+                                                <img class="img-fluid" src="images/services/whyus.jpg" title="single-img-eight" alt="single-img-eight">
                                             </div><!-- ttm_single_image-wrapper end -->
                                         </div>
                                         <div class="col-lg-6">

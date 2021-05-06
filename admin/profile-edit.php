@@ -81,7 +81,7 @@ if(isset($_POST['form2'])) {
 
     	// removing the existing photo
     	if($_SESSION['user']['photo']!='') {
-    		unlink('assets/uploads/'.$_SESSION['user']['photo']);	
+    		unlink('../assets/uploads/'.$_SESSION['user']['photo']);	
     	}
 
     	// updating the data

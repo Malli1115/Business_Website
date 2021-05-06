@@ -1073,7 +1073,7 @@
                                     <div class="featured-icon-box">
                                         <div class="featured-icon"><!--  featured-icon -->
                                             <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
-                                                 <img class="img-fluid" src="images\clients/clients1.png" alt="image">
+                                                 <img class="img-fluid" src="images/photos/product4.png" alt="image">
                                                 <!-- <i class="flaticon flaticon-business-and-finance"></i> --><!--  ttm-icon --> 
                                             </div>
                                         </div>
@@ -1081,7 +1081,7 @@
                                 </div>
                                 <div class="ttm-history-box-border"></div><!-- ttm-history-box-border  --> 
                                 <div class="ttm-history-box-details">
-                                    <div class="ttm-historybox-title"><h5>IT Consultancy</h5></div><!-- historybox-title  --> 
+                                    <div class="ttm-historybox-title"><h5>Keep notes</h5></div><!-- historybox-title  --> 
                                     <div class="ttm-historybox-description"><!-- description  --> 
                                         Expertise in IT consultancy for the IT companies, for their different working areas Web-app related.
                                     </div>
@@ -1093,14 +1093,14 @@
                                     <div class="featured-icon-box">
                                         <div class="featured-icon"><!--  featured-icon -->
                                             <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
-                                                 <img class="img-fluid" src="images\clients/clients2.png" alt="image">
+                                                 <img class="img-fluid" src="images/photos/product1.png" alt="image">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="ttm-history-box-border"></div><!-- ttm-history-box-border  --> 
                                 <div class="ttm-history-box-details">
-                                    <div class="ttm-historybox-title"><h5>IT Management</h5></div><!-- historybox-title  --> 
+                                    <div class="ttm-historybox-title"><h5>Social media</h5></div><!-- historybox-title  --> 
                                     <div class="ttm-historybox-description"><!-- description  --> 
                                         We provide all kind of IT management services of in the according to on their organization prioritie.
                                     </div>
@@ -1113,7 +1113,7 @@
                                     <div class="featured-icon-box">
                                         <div class="featured-icon"><!--  featured-icon -->
                                             <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
-                                                 <img class="img-fluid" src="images\clients/clients3.png" alt="image"> 
+                                                 <img class="img-fluid" src="images/photos/product2.png" alt="image"> 
                                             </div>
                                         </div>
                                     </div>
@@ -1132,7 +1132,7 @@
                                     <div class="featured-icon-box">
                                         <div class="featured-icon"><!--  featured-icon -->
                                             <div class="ttm-icon ttm-icon_element-bgcolor-white ttm-icon_element-size-md">
-                                                 <img class="img-fluid" src="images\clients/clients4.png" alt="image"> 
+                                                 <img class="img-fluid" src="images/photos/product3.png" alt="image"> 
                                             </div>
                                         </div>
                                     </div>
