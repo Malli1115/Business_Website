@@ -87,10 +87,10 @@ if (isset($_POST['form1'])) {
                             <div class="widget link-widget clearfix">
                                <h3 class="widget-title">Quick Links</h3>
                                 <ul id="menu-footer-services">
-                                    <li><a href="https://www.cogsworth.com/book/ckj2gpxy1003p0nrn01nheu0j">Make Appointment</a></li>
+                                    <li><a href="tcx_contact.php">Make Appointment</a></li>
                                     <li><a href="tcx_contact.php">Customer Services</a></li>
                                     <li><a href="tcx_about.php">About Company</a></li>
-                                    <li><a href="https://www.cogsworth.com/book/ckj2gpxy1003p0nrn01nheu0j">Free Consultation</a></li>
+                                    <li><a href="tcx_contact.php">Free Consultation</a></li>
                                     <li><a href="tcx_ourteam.php">Meet Our Experts</a></li>
                                     <li><a href="tcx_about.php">Our Business Growth</a></li>
                                 </ul>
