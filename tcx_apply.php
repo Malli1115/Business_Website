@@ -92,7 +92,7 @@ if (isset($_POST['form1'])) {
                             <!-- ttm-blog-classic-content -->
                             <div class="ttm-blog-single-content">
                                 <div class="entry-content">
-                                    <h4>Technicax Llc <span style="color: orange">|</span> Technicax India (P) Ltd</h4>
+                                    <h4>Milky Llc <span style="color: orange">| </span>Milky India (P) Ltd</h4>
                                     <p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
                                    
                             <!-- collapse -->
