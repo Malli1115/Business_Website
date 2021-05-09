@@ -217,7 +217,7 @@ if (isset($_POST['form1'])) {
                     <div class="row copyright">
                         <div class="col-md-6">
                             <div class="">
-                                <span>Copyright © 2021&nbsp;<a href="#">Technicax</a></span>
+                                <span>Copyright © 2021&nbsp;<a href="#">Malli</a></span>
                             </div>
                         </div>
                         <div class="col-md-6">
