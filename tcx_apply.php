@@ -198,7 +198,7 @@ if (isset($_POST['form1'])) {
                                     </div>
                                     <div class="featured-content"><!--  featured-content --> 
                                         <div class="featured-desc">
-                                            <p>1767 E Queen Creek Road, Suite #4,<br> Chandler, AZ 85286</p>
+                                            <p>177 main Road, Suite #4,<br> USA</p>
                                         </div>
                                     </div>
                                 </div><!--  featured-icon-box END -->
@@ -206,7 +206,7 @@ if (isset($_POST['form1'])) {
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 order-md-3">
                             <div class="text-sm-right">
-                                <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="mailto:sales@technicax.com" title="subscribtion"> sales@technicax.com <i class="fa fa-envelope-o"></i></a>
+                                <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="mailto:sales@technicax.com" title="subscribtion"> mallikumar1998@gmail.com <i class="fa fa-envelope-o"></i></a>
                             </div>
                         </div>
                     </div>
